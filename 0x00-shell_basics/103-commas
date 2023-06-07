@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -mvap --group-directories-first -v
+ls -pmva --group-directories-first
