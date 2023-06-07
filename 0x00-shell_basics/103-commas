@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -pmva --group-directories-first
+ls -xamp
